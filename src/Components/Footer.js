@@ -42,7 +42,7 @@ const Footer = () => {
             </Container>
             <hr style={{ color: '#fff' }}/>
 
-            <Container >
+            <Container style={{ width:"100%" }}>
 
                 <Row className='mt-3'>
                     <Col md="3" lg="4" xl="3" className='mx-auto mb-4'>
